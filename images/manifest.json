@@ -1,0 +1,11 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://ahollnd.github.io/iiif-andrew-1/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in ahollnd/iiif-andrew-1 project"
+        ]
+    },
+    "items": []
+}
